@@ -1,6 +1,4 @@
-# Project Title
-
-Advanced Techniques for Lane Finding
+# Advanced Techniques for Lane Finding
 
 ## Getting Started
 
